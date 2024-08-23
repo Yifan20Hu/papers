@@ -1,1 +1,1 @@
-This is the paper list for Yifan Hu (https://sites.google.com/view/yifan-hu).
+This is the paper list for Yifan Hu from EPFL (https://sites.google.com/view/yifan-hu).
